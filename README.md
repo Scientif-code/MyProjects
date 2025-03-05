@@ -6,7 +6,7 @@ Bienvenue sur mon portfolio GitHub ! Veuillez regarder si l'envie vous prend mes
 
 ## 1. [Greedy](https://github.com/Scientif-code/Greedy) <- Cliquez ici pour aller jeter un coup d'oeil !
 
-### **Greedy** implémente en **React** un jeu où on contrôle un personnage *greedy* qui doit manger le plus de fruits possible tout en évitant les méchants qu'on appelle les *Hungries*.
+### **Greedy** implémente en **Javascript** un jeu où on contrôle un personnage *greedy* qui doit manger le plus de fruits possible tout en évitant les méchants qu'on appelle les *Hungries*.
 
 ---
 
